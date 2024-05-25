@@ -1,4 +1,4 @@
-# Let-s-build-GPT-using-Keras
+# Lets-build-GPT-using-Keras
 TF/Keras implementation GPT
 
 There is an excellent video by [Andrej
