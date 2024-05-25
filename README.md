@@ -11,3 +11,7 @@ notebook follows the same principles and steps outlined in the video, allowing y
 gain the same understanding and insights using TensorFlow/Keras. You can follow along
 with the video and refer to this notebook for the equivalent TensorFlow/Keras code,
 making it a valuable resource for anyone familiar with TensorFlow or looking to learn it.
+
+You can run it on Colab:
+https://colab.research.google.com/github/Sadeqk94/Lets-build-GPT-using-Keras/blob/main/Generative_Pretrained_Transformer(GPT).ipynb
+
